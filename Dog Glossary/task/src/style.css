@@ -1,0 +1,41 @@
+#dog-image {
+    margin-top: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 60vh;
+}
+
+#input-breed {
+    height: 100%;
+}
+
+#btn-container {
+    width: 100%;
+}
+
+#outside-container {
+    width: 100%;
+    text-align: center;
+}
+
+#inside-container {
+    width: 60%;
+    margin: auto;
+    height: 100vh;
+    background-color: rgba(236, 227, 233, 0.94);
+    border: solid rgba(236, 227, 233, 0.94) 1vh;
+}
+
+body {
+    text-align: center;
+}
+
+#sub-breeds-list, #all-breeds-list {
+    text-align: left;
+}
+
+.list-group {
+    margin-left: 5vw;
+    margin-right: 20vw;
+    margin-top: 1vh;
+}
